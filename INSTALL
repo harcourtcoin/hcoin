@@ -1,9 +1,9 @@
 Building HarcourtCoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building harcourtcoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of HarcourtCoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building harcourtcoin,
 the intended-for-services, no-graphical-interface, reference
 implementation of HarcourtCoin.
